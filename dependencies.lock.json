@@ -1,0 +1,34 @@
+[
+  {
+    "version": "1.1.6+26.3",
+    "filename": "mapstitch-fabric-1.1.6+26.3.jar",
+    "url": "https://cdn.modrinth.com/data/etdHQJ0B/versions/kRE6nsB7/mapstitch-fabric-1.1.6%2B26.3.jar",
+    "sha512": "988e85d2f24a1a72cc6b65cbb043c708edf5109f156be2e6c2b8772aca286ed0990efbc48454cdbb60040b31c6eda2acfb89ea6072f34f7974c1a190a50140f3",
+    "sha256": "e1b768bbd1ae06f83305eeba3ab19bfe4eb99bf21de12d57364d04ce9a1cde81",
+    "usage": "build-and-runtime"
+  },
+  {
+    "version": "0.7.7+fix2+26.3",
+    "filename": "fzzy_config-0.7.7+fix2+26.3.jar",
+    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/thw1Z19c/fzzy_config-0.7.7%2Bfix2%2B26.3.jar",
+    "sha512": "c33e0464b6bcda00a7bdb7b84f7390ed1b168b1ce9e553226bef2bbfc0608f127665040ba7cb3701d30cb34f70e2cae72d4847da0d2994092d3af15fb7a3ccd4",
+    "sha256": "138e377563a8ca536a9af00d8eeefb7fe160903392df8e4ca7cd4b5da6f0bb5f",
+    "usage": "build-and-runtime"
+  },
+  {
+    "version": "1.14.1+kotlin.2.4.20",
+    "filename": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
+    "sha512": "91404f87774466ce8604aafea791d8cc97b603bc310dce17c8188f94f7783cca6dc14fc726ce871ca317bfe9033c199d8d858d51284106a00754e952147703b8",
+    "sha256": "620c2709be2a262b837cf976f6f85f6eda80a56af2ba4242e0bdc83a60fee7a5",
+    "usage": "build-and-runtime"
+  },
+  {
+    "version": "0.18.2+26.3",
+    "filename": "polymer-bundled-0.18.2+26.3.jar",
+    "url": "https://cdn.modrinth.com/data/xGdtZczs/versions/REBDssAz/polymer-bundled-0.18.2%2B26.3.jar",
+    "sha512": "a83bec0ef7ee4c905429f102a9a1b2ff9db60fb23f3e6b5a26ff4442b0427c3edd821f311643a3c377541cfd5a4753519001cbfebbeb78014a77041d91449f51",
+    "sha256": "3d79318e8202d0e87af308d7f232220714e5f1409d06c23db774877ec6f3848f",
+    "usage": "runtime-polymer-bundle"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "package": "com.thenathe.mapstitchcompat.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "MapstitchInitializationMixin",
+    "MapstitchNetworkingMixin",
+    "NativeComponentsMixin",
+    "RegistrySyncSchedulingMixin",
+    "NativeRegistrySyncMixin",
+    "RegistryWireIdsMixin",
+    "RegistryPacketEncoderMixin",
+    "RegistryPacketDecoderMixin",
+    "NativeTagsMixin",
+    "PolymerNativeRegistryMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}
